@@ -86,13 +86,13 @@ Carbon Credit Issuance
 
 React Native app for field teams to upload geotagged plantation data and monitor ecosystem health.
 
-https://github.com/IshaGawade/final_aquacreds_frontend.git
+https://github.com/IshaGawade/Aquacreds_Frontend_Final.git
 
 ### Backend Services
 
 Node.js backend responsible for project management, verification workflows, and carbon credit tracking.
 
-https://github.com/Vedika-k187/aquacreds-backend-public
+https://github.com/IshaGawade/Aquacreds_backend.git
 
 ### Blockchain Registry
 
